@@ -1,0 +1,8 @@
+<!do<!DOCTYPE html>
+<html>
+ <head>
+ <title>labirynthe</title>
+ </head>
+ <body>
+  </body>
+</html>
