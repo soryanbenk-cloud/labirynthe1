@@ -1,8 +1,9 @@
-<!do<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
  <head>
- <title>labirynthe</title>
+ <title>perdue</title>
  </head>
  <body>
   </body>
+
 </html>
